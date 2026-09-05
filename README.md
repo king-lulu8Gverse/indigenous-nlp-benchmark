@@ -144,3 +144,13 @@ This repository is provided for educational purposes under the MIT License.
 **Course Name**: CSC 406 - Artificial Intelligence
 **Course Level**: Beginner to Intermediate NLP / Linguistics  
 **Duration**: 1 week - Due September 1st 2026
+## Group 08 — Gbagyi
+
+Group 08 completed the Gbagyi NLP assignment, including corpus preprocessing,
+Zipf's Law analysis, and unigram/bigram language modeling with Laplace smoothing.
+
+### Gbagyi Corpus Statistics
+
+- Sentences: 8,088
+- Stopwords: 30
+- Language track: Gbagyi
